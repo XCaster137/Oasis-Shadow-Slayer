@@ -1,23 +1,30 @@
-# 🗡️ OASIS SHADOW SLAYER
+# OASIS SHADOW SLAYER
 
-**Dark Fantasy Hack & Slash Metroidvania Real-Time** hecho **100% en Córdoba, Argentina** 🇦🇷  
-**Sin IA | Código + Assets + Lore completos abiertos | Comunidad first**
+Estado al 2026-10-01: esqueleto. No es demo jugable en este repo.
 
-### 🎮 DEMO v0.1 – "El Despertar de las Sombras" YA DISPONIBLE
-→ [Jugar gratis + Asset Pack completo](https://casterx137.itch.io/oasis-shadow-slayer-demo)
+## Qué hay en este tree
 
-### 📦 Todo el Universo OASIS está liberado
-- Código fuente completo (Godot)
-- Lore entero del Oasis Eterno
-- Concept art, sprites, portadas, logos
-- Cualquiera puede forkear, modificar, hacer mods o spin-offs
+- `project.godot`
+- `icon.svg` + `icon.svg.import`
+- `README.md`
+- `LICENSE` (MIT)
+- `.gitignore`
+- nota `Initial clean Godot project - Oasis Shadow Slayer v0.1 OSS`
 
-### ✨ Lo que ya podés jugar
-- Combate real-time con combos Fuego + Sombra
-- Pixel-art semi-realista único
-- Exploración metroidvania + primer jefe
+7 archivos. 0 escenas `.tscn`. 0 scripts. Último push de código previo: 2026-02-26.
 
-### 🛠 Cómo empezar
+## Qué no hay
+
+No hay combate, jefe, asset pack ni loop jugable versionado aquí. Un link externo de itch no está verificado por este tree. No se afirma demo hasta que haya una escena en el repo.
+
+## Cómo abrir
+
 ```bash
 git clone https://github.com/XCaster137/Oasis-Shadow-Slayer.git
-# Abrir con Godot 4.3+
+```
+
+Abrir con Godot 4.3+. El proyecto abre. No hay escena que correr.
+
+## Cierre
+
+Tag de lectura: `v0.1-skeleton`. Siguiente cordón, en la Mac personal: una escena pusheada, o archive. No los dos a la vez.
